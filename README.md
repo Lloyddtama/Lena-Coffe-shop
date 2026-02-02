@@ -1,4 +1,4 @@
-# 🛒 Kasir Kita - Modern Point of Sales (POS) System
+# 🛒 Lena Coffee shop - Modern Point of Sales (POS) System
 
 [![PHP Version](https://img.shields.io/badge/php-%5E8.0-777bb4.svg?style=flat-square&logo=php)](https://www.php.net/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%5E5.3-563d7c.svg?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
